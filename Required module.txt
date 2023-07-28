@@ -1,0 +1,8 @@
+required modules-
+open ai module --> pip install openai
+telebot module --> pip install pyTelegramBotAPI
+pytz module --> pip install pytz
+datetime module --> pip install datetime
+google-api-python-client module --> pip install google-api-python-client
+google-auth-httplib2 module --> pip install google-auth-httplib2
+google-auth-oauthlib module --> pip install google-auth-oauthlib
